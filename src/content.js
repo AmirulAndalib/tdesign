@@ -102,6 +102,11 @@ export default {
         npm: '',
       },
       {
+        name: 'tdesign-react-starter',
+        github: 'Tencent/tdesign-react-starter',
+        npm: '',
+      },
+      {
         name: 'tdesign-icons',
         github: 'Tencent/tdesign-icons',
         npm: '',
