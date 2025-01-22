@@ -1,9 +1,19 @@
 {
   "all": {},
-  "site": {},
+  "site": {
+    "title": "📢 tdesign-vue-next 站点新增 AI 搜索体验，欢迎参考文档进行体验",
+    "type": "primary",
+    "actionUrl": "https://tdesign.tencent.com/vue-next/getting-started#%E4%BD%BF%E7%94%A8-ai-%E6%90%9C%E7%B4%A2",
+    "closeable": true
+  },
   "vue": {},
   "react": {},
-  "vue-next": {},
+  "vue-next": {
+    "title": "📢 站点新增 AI 搜索体验，使用方式请参考文档",
+    "type": "primary",
+    "actionUrl": "https://tdesign.tencent.com/vue-next/getting-started#%E4%BD%BF%E7%94%A8-ai-%E6%90%9C%E7%B4%A2",
+    "closeable": true
+  },
   "vue-mobile": {},
   "miniprogram": {}
 }
